@@ -1,2 +1,2 @@
 # PowerX-Screener
- Screener combining the PowerX Strategy with the TTM Squeeze
+Screener combining the PowerX Strategy with the TTM Squeeze. The [PowerX Strategy](https://www.amazon.com/PowerX-Strategy-Stocks-Options-Minutes/dp/0692048596) simply combines the RSI, the Stochastic Indicator, and the MACD to form buy and sell signals. Markus Heitkoetter (the creator of the strategy) has a screener that allows one to scan for stocks matching certain parameters (described in his book). This attempts to replicate that screener and add in additional confirmations with the famous (or infamous depending on how you see it) TTM Squeeze indicator. 
